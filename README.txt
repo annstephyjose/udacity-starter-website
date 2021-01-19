@@ -11,4 +11,4 @@ index.html - The Index document for the website.
 
 
 
-CloudFront endpoint URL for my project - https://d16rkfyonbm504.cloudfront.net/index.html
+CloudFront endpoint URL for my project - https://d16rkfyonbm504.cloudfront.net
